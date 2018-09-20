@@ -28,7 +28,9 @@
 }
 
 .detail{
-  background-color: #999;
-  height: 100vh;
+  
+  background-color: #FFF;
+  height: 900px;
   width: 100%;
+  overflow: auto;
 }

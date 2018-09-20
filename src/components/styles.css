@@ -1,7 +1,3 @@
-.locationList{
-    /* background-color: red; */
-}
-
 @media (max-width:48em){
     .locationList{
         /* background-color: blue; */
@@ -9,4 +5,11 @@
         overflow: auto;
         margin-bottom: 20px;
     }
+}
+
+.forcecastTitle {
+    color: #333;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px
 }

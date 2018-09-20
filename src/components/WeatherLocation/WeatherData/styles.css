@@ -8,6 +8,15 @@
     border-radius: 5px; 
     margin-top: 0;
 }
+.detail .weatherDataCont{
+    background-color: #d7fdf0;
+}
+.detail #horaDetalle{
+    text-align: left;
+    margin-top: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
 .weatherTemperature{
     /* background-color: yellow; */
     width: 60%;

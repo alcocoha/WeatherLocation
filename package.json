@@ -6,13 +6,16 @@
     "@material-ui/core": "^1.5.1",
     "chai-enzyme": "1.0.0-beta.1",
     "convert-units": "^2.3.4",
+    "moment": "^2.22.2",
     "prop-types": "15.6.2",
     "react": "16.4.1",
     "react-addons-test-utils": "15.6.2",
     "react-dom": "16.4.1",
     "react-flexbox-grid": "^2.1.2",
+    "react-redux": "^5.0.7",
     "react-scripts": "1.1.4",
-    "react-weathericons": "^1.0.4"
+    "react-weathericons": "^1.0.4",
+    "redux": "^4.0.0"
   },
   "scripts": {
     "start": "react-scripts start",

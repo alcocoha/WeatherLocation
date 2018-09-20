@@ -7,6 +7,7 @@
     -moz-box-shadow: 7px 9px 26px -6px rgba(0,0,0,0.75);
     box-shadow: 7px 9px 26px -6px rgba(0,0,0,0.75);
     margin: 10px;
+    cursor: pointer;
 }
 
 .LocationCont{
